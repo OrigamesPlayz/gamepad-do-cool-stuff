@@ -2,7 +2,8 @@
 
 i like gamepads cause they do cool stuff
 
-## gamepad session 1 - [placeholder]
+## gamepad session 1 - [40m]
 
 What i did:
 
+I installed KiCad and setup KiCad Wakatime.
