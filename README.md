@@ -10,3 +10,11 @@ I installed KiCad and setup KiCad Wakatime.
 
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/0183917c-4fce-427c-a831-c4f36e472d20" />
 
+
+## gamepad session 2 - [45m]
+
+What i did:
+
+I added some symbols to me KiCad schematics.
+
+<img width="405" height="531" alt="image" src="https://github.com/user-attachments/assets/2a389b48-5a83-45b3-b7e2-5ecd2a35e0c6" />
