@@ -23,6 +23,6 @@ I added some symbols to me KiCad schematics.
 
 What I did:
 
-I finished off the PCB schematic (finding global tags took a long time).
+I finished off the PCB schematic (finding global tags took a long time because i reinstalled it on my own computer).
 
 <img width="803" height="803" alt="image" src="https://github.com/user-attachments/assets/0bf86c58-caa6-4c3e-9790-dba3195bede9" />
