@@ -19,7 +19,7 @@ I added some symbols to me KiCad schematics.
 
 <img width="405" height="531" alt="image" src="https://github.com/user-attachments/assets/2a389b48-5a83-45b3-b7e2-5ecd2a35e0c6" />
 
-## gamepad session 3 - [45m]
+## gamepad session 3 - [20m]
 
 What I did:
 
